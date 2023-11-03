@@ -1,0 +1,1 @@
+alert("benvenuto, questo è il codice sconto: SERVLET20");
